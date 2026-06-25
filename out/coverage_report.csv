@@ -1,0 +1,13 @@
+metric,value
+npi_total,6
+npi_type1,3
+npi_type2,3
+npi_with_tin,0
+npi_tin_suppressed,6
+taxonomy_edges,7
+reassignment_edges,2
+ccn_total,3
+ccn_npi_bridged,1
+ccn_unbridged,2
+GAP_tin_per_npi,NOT PUBLIC (confidential / <UNAVAIL>)
+GAP_claim_level_rendering_attending,NOT PUBLIC (claims are PHI)

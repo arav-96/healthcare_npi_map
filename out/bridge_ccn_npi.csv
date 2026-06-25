@@ -1,0 +1,2 @@
+ccn,facility_name,npi,match_score,match_method
+140123,RIVERSIDE REGIONAL HOSPITAL INC,1700000001,100.0,name+zip5_fuzzy

@@ -1,0 +1,7 @@
+npi,entity_type,type_label,org_name,individual_name,is_sole_prop,is_subpart,parent_lbn,addr1,city,state,zip,zip5,primary_taxonomy,tin_status
+1700000001,2,Organization (Type 2),Riverside Regional Hospital,,,N,,100 River Rd,Chicago,IL,606010000,60601,282N00000X,suppressed_unavail
+1700000002,2,Organization (Type 2),Riverside Regional Hospital Rehab Unit,,,Y,Riverside Regional Hospital,100 River Rd,Chicago,IL,606010000,60601,283X00000X,suppressed_unavail
+1700000010,2,Organization (Type 2),Lakeside Cardiology Group LLC,,,,,55 Lake St,Chicago,IL,606020000,60602,207RC0000X,suppressed_unavail
+1700000020,1,Individual (Type 1),,Anna Stone,N,,,55 Lake St,Chicago,IL,606020000,60602,207RC0000X,suppressed_unavail
+1700000021,1,Individual (Type 1),,Ben Ng,N,,,55 Lake St,Chicago,IL,606020000,60602,207RC0000X,suppressed_unavail
+1700000030,1,Individual (Type 1),,Carol Diaz,Y,,,9 Main St,Peoria,IL,616020000,61602,207Q00000X,suppressed_unavail

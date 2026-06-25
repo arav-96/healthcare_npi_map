@@ -1,0 +1,17 @@
+# synthetic inputs (regenerate with make_sample_data.py)
+sample_cms/
+
+# large data: published as GitHub Release assets, not committed
+*.parquet
+out_full/
+out_national/
+inputs/
+nppes_monthly/
+_duckdb_tmp/
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/

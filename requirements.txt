@@ -1,0 +1,7 @@
+pandas>=2.0
+rapidfuzz>=3.0
+openpyxl>=3.1
+duckdb>=1.0          # national-scale engine (--engine duckdb), out-of-core NPPES load
+# optional: only needed to READ the .parquet outputs back into pandas
+# (DuckDB reads/writes parquet natively without it)
+# pyarrow>=15.0
